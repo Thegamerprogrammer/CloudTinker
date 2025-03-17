@@ -1,2 +1,4 @@
 # CloudTinker
 A Python Interface To Change The Variables Of Any Scratch Project
+
+WARNING! THIS PROGRAM IS NOT INTENDED TO BE USED MALICIOUSLY! I DO NOT CONDONE MALICIOUS USE!
